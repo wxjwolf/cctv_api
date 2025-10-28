@@ -1,0 +1,15 @@
+{
+  "name": "cctv-live-api",
+  "version": "1.0.0",
+  "description": "CCTV Live Stream API",
+  "main": "api/cctv.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
